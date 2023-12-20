@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My name is Angie!
+
+####And I am from the Washington state. I enjoy learning programming. Currently learning React, MongoDB, Node.
+I primarely work with JavaScript, HTML, CSS.
+
+
 <!--
 **Angiedoescoding/Angiedoescoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
