@@ -5,7 +5,7 @@
 ##### I am based in Washington state, US. I enjoy learning programming. Currently learning React, MongoDB, Node.
 I primarely work with JavaScript, HTML, CSS.
 
-
+![The_line](AM.jpg)
 <!--
 **Angiedoescoding/Angiedoescoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
