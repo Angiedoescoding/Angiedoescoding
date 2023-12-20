@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&random=false&width=600&lines=Hi+there!)](https://git.io/typing-svg)
+### Hi there! 
 
 ## My name is Angie!
 
