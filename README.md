@@ -3,7 +3,7 @@
 ## My name is Angie!
 
 ##### I am based in Washington state, US. I enjoy learning programming. Currently learning React, MongoDB, Node.
-I primarely work with JavaScript, HTML, CSS.
+I primarily work with JavaScript, HTML, CSS.
 
 ![The_line](AM.jpg)
 <!--
